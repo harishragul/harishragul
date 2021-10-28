@@ -8,13 +8,13 @@
 
 ## About Me
 - 🔭 Looking for some intresting projects
-- 🌱 I’m currently learning Crypto Networking & Cloud Computing
+- 🌱 I’m currently addicted on my own coding style 
 - 💻 Love on Computer Science, Maths, Physics
-- 🚀 Future Rocket Scientist
-- 🎃 Big Fan of Satoshi Nakamoto
-- ◈ Studying Ethereum 
+- 🚀 Rocket Scientist
+- 🎃 Big Fan of CERN
+- ◈ Studying Aerospace Engineering & General Science 
 - 🕴Thinking about Entrepreneurship and Investments
-- <a href="https://harishragulkarthik.github.io/">🕸 My website</a>
+- <a href="https://harishragul.github.io/">🕸 My website</a>
 
 ## Stats
 <a href="https://www.adamalston.com/"><img align="left" height="130px" width="430px" src="https://github-readme-stats.vercel.app/api?username=harishragul&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
