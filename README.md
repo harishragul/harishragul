@@ -2,9 +2,7 @@
 
 # I'm Harishragul Rajaramaduraikarthik
 
-### Aerospace Engineering Student & Front-end Developer
-
-<img align="right" alt="GIF" src="https://github.com/harishragul/harishragul/blob/e6ecb4ccd60536c24131dc7d10ed08c0761f9a73/C.gif?raw=true" width="450" height="300" />
+### Aerospace Engineering Student
 
 ## About Me
 - 🔭 Looking for some intresting projects
