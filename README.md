@@ -2,12 +2,12 @@
 
 # I'm Harishragul Rajaramaduraikarthik
 
-### Aerospace Engineering Student
+### Aero Thermal Engineering Student
 
 ## About Me
 - 🔭 Looking for some intresting projects
-- 🌱 I’m currently addicted to my Drone 
-- 💻 Love on Maths, Physics
+- 🌱 I’m currently addicted to Finite Element Anaysis
+- 💻 Working as Jr Software Engineer
 - 🚀 Rocket Scientist
 - 🎃 Big Fan of Open Source
-- ◈ Studying Aerospace Engineering & General Science
+- ◈ Studying Aero Thermal Engineering
